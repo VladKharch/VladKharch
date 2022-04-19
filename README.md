@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Vlad
+- 👀 I’m interested in learning programming and Web3 technologies.
+- 🌱 I’m currently learning Java, Solidity.
+- 💞️ I’m looking to collaborate on Web3 projects.
+- 📫 How to reach me - right me email at kathleenjacksonss05@gmail.com
+- 😄 I like eating cheesecakes.
+- ⚡ Fun fact: I have 2 cats and 1 dog.
